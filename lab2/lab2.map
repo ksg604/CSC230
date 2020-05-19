@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.1.42  C:\Users\Kevin\Documents\school\CSC 230\lab2\lab2.asm Wed Jan 18 19:08:29 2017
+
+
+DEF  count        r16
+CSEG lp           00000001
+CSEG done         00000005

@@ -1,0 +1,1 @@
+c:\WinAVR\bin\avrdude -CC:\WinAVR\bin\avrdude.conf -v -v -v -v -patmega2560 -cwiring -P\\.\COM6 -b 115200 -D -F -U flash:w:filename.hex 

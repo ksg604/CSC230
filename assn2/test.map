@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.1.42  C:\Users\Kevin\Documents\school\CSC 230\assn2\test.asm Sat Feb 11 20:37:52 2017
+
+
+DEF  test         r16
+CSEG done         00000001

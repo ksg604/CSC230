@@ -1,0 +1,36 @@
+Kevin San Gabriel
+V00853258
+
+1. We use 5 bits because we cannot represent a number greater than 15 using only 4 bits.  
+Because the decimal numbers go up to 23 in our table we need 5 bits in binary to represent 0 to 23 in decimals.
+
+2. 6 bits in binary can represent decimal values from 0 to 63 so 64 different values 
+can be represented by 6 bits
+
+3. In order to represent 105 we need at least 7 bits in binary
+
+6.
+	
+   A)  4 bits minimum: 0
+	      maximum: 15
+	
+       8 bits minimum: 0
+              maximum: 255
+
+       16 bits minimum: 0
+               maximum: 65535
+
+       12 bits minimum: 0
+	       maximum: 4095
+
+   B)  4 bits minimum: -8
+	      maximum: 7
+
+       8 bits minimum: -128
+              maximum: 127
+
+       16 bits minimum: -32768
+	       maximum: 32767
+
+       12 bits minimum: -2048
+               maximum: 2047

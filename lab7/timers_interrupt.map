@@ -1,0 +1,22 @@
+
+AVRASM ver. 2.1.42  C:\Users\Kevin\Documents\school\CSC 230\lab7\timers_interrupt.asm Thu Mar 09 21:05:49 2017
+
+
+EQU  PORTB        00000025
+EQU  DDRB         00000024
+EQU  PORTL        0000010b
+EQU  DDRL         0000010a
+EQU  SPH          0000005e
+EQU  SPL          0000005d
+EQU  TCCR1A       00000080
+EQU  TCCR1B       00000081
+EQU  TCCR1C       00000082
+EQU  TCNT1H       00000085
+EQU  TCNT1L       00000084
+EQU  TIFR1        00000036
+EQU  TIMSK1       0000006f
+EQU  SREG         0000005f
+CSEG setup        00000050
+CSEG timer1_isr   0000006d
+CSEG timer_init   0000005e
+CSEG lp           0000005d
